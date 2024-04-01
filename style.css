@@ -1,0 +1,8 @@
+#camera {
+    width: 520px;
+    height: 460px;
+    border: 20px double grey;
+}
+#textbox {
+    width: 300px;
+}
